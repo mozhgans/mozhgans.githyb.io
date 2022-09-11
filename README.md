@@ -6,7 +6,7 @@ About Me
 
 ```diff
 
-some about me ...
+some about me ... in blue
 
 
 ```
@@ -116,4 +116,8 @@ hhhhhh
 
 Contact
 
+```
+
+```json
+   // code for coloring
 ```
