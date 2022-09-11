@@ -12,12 +12,12 @@ some about me ...
 ```
 
 
-
+Research Interests
 
 
 ```diff
 
-Research Interests
+
 
 
  @@…. Research Interests @@
@@ -29,12 +29,12 @@ some papers
 
 
 
-
+Selected Publications & Preprints.  in red
 
 ```diff
 
 
-Selected Publications & Preprints.  in red
+
 
 preprints
 
@@ -42,24 +42,31 @@ preprints
 ```
 
 
+Past Talks
+
 
 ```diff
 
 
 
-Past Talks
+
 
 talks
 
 ```
 
 
-```diff
-
-
 Former Supervision & Teaching Assistance
 
+
+```diff
+
+supervisionsssss
+
+
 ```
+
+Activities
 
 
 ```diff
@@ -76,16 +83,35 @@ Former Supervision & Teaching Assistance
 
 ```diff
 
+rev
+
+```
+
 #####Workshops
+
+```diff
+
+work
+
+```
+
+
+Socials
+
+```diff
+
+sssss
 
 ```
 
 
 
-Socials
-
 
 Reading Group
+
+```diff
+hhhhhh
+````
 
 
 Contact
